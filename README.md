@@ -3,6 +3,8 @@
 
 Este projeto tem como princípio a automação do 0 ao avançado de uma plataforma para cadastros de Filmes. 
 
+O projeto está com infraestrutura Docker, segue abaixo os comandos para configuração.
+
 ## Principais comandos:
 
 ### Parar e remover os seguintes containers:
